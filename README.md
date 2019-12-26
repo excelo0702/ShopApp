@@ -1,16 +1,11 @@
-# shop
+# ShopAPP
+It is a shop app which is bild using Flutter.In this app we show all the functionalties needed for a shop app.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+-User can signup/signin.
+-All the products that are in stock shows to every user.
+-User can add items to the cart,add item in the wish list.
+-User can add product.
+-User can edit his product.
+-Can place a order.
+-All the pop up dialog and snackbar at needed place are also included.
